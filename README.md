@@ -39,7 +39,7 @@ O sistema foi arquitetado para garantir consistência de dados através das segu
   <img src="./telas/edicaoprod.jpeg" width="250" alt="Tela de Edição" />
   <img src="./telas/novopedido.jpeg" width="250" alt="Tela de Pedidos" />
   <img src="./telas/pedidoshist.jpeg" width="250" alt="Tela de Historico" />
-  <img src="./telas/perfilcliente.jpeg" width="250" alt="Tela de Clientes" />
+  <img src="./telas/pefilcliente.jpeg" width="250" alt="Tela de Clientes" />
   <img src="./telas/notafiscal.jpeg" width="250" alt="Extrato com export" />
 </div>
 

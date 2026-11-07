@@ -33,14 +33,14 @@ O sistema foi arquitetado para garantir consistência de dados através das segu
 *(O design foca em usabilidade mobile e feedback visual instantâneo para operação ágil no balcão)*
 
 <div align="center">
-  <img src="./telas/home.png" width="250" alt="Tela Inicial" />
-  <img src="./telas/estoque.png" width="250" alt="Tela de Estoque" />
-  <img src="./telas/cadastroprod.png" width="250" alt="Tela de Cadastro Produto" />
-  <img src="./telas/edicaoprod.png" width="250" alt="Tela de Edição" />
-  <img src="./telas/novopedido.png" width="250" alt="Tela de Pedidos" />
-  <img src="./telas/pedidoshist.png" width="250" alt="Tela de Historico" />
-  <img src="./telas/perfilcliente.png" width="250" alt="Tela de Clientes" />
-  <img src="./telas/notafiscal.png" width="250" alt="Extrato com export" />
+  <img src="./telas/home.jpeg" width="250" alt="Tela Inicial" />
+  <img src="./telas/estoque.jpeg" width="250" alt="Tela de Estoque" />
+  <img src="./telas/cadastroprod.jpeg" width="250" alt="Tela de Cadastro Produto" />
+  <img src="./telas/edicaoprod.jpeg" width="250" alt="Tela de Edição" />
+  <img src="./telas/novopedido.jpeg" width="250" alt="Tela de Pedidos" />
+  <img src="./telas/pedidoshist.jpeg" width="250" alt="Tela de Historico" />
+  <img src="./telas/perfilcliente.jpeg" width="250" alt="Tela de Clientes" />
+  <img src="./telas/notafiscal.jpeg" width="250" alt="Extrato com export" />
 </div>
 
 ---
